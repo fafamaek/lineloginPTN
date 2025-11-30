@@ -1,8 +1,8 @@
 // ตั้งค่า LIFF ID ของคุณที่นี่
-const liffId = "2007320827-m3ygVAKM";
+const liffId = "2008591294-vmAr7BXY";
 
 // ตั้งค่า Google Apps Script URL ของคุณที่นี่
-const googleScriptUrl = "https://script.google.com/macros/s/AKfycbzAyZdIfSnp8aCarZPZQ0ueZ3S5YYOEjBsS3EntQCMphMeASv1eY2BzDyWYcC3YKKKf/exec";
+const googleScriptUrl = "https://script.google.com/macros/s/AKfycbwZBA4TGIL02L1zHZUmDXgz11zhr2W9B2gjfeY1A1dEDYef56TPQi5Z4QzcVJWgzgtx/exec";
 
 document.addEventListener('DOMContentLoaded', function() {
   // เริ่มต้น Modal
